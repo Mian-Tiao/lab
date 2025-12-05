@@ -2,7 +2,7 @@
 
 void Calculator (int minuend, int subtrahend){
     int difference = minuend - subtrahend;
-    printf("The number is %d", difference);
+    printf("The number is %d\n", difference);
 }
 
 int main() {
@@ -11,7 +11,7 @@ int main() {
     int number_1 = 14;
     int number_2 = 735;
 
-    Calculator(number_1, number_2);
+    Calculator(number_2, number_1);
 
     // Operations placeholders
     printf("System Check OK.\n");
