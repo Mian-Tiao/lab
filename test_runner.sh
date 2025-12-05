@@ -1,3 +1,4 @@
+
 # !/ bin/ bash
     echo " Running Build Test..."
     gcc main.c -o app
@@ -11,5 +12,3 @@ else
     exit 1
 fi
 
-
-# 114514 00100
