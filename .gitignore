@@ -1,1 +1,4 @@
--e "*.o\n*.exe\na.out" 
+*.o
+*.exe
+a.out
+
